@@ -1,5 +1,6 @@
 <!DOCTYPE html>
  <html>
+ <body>
  <head>
  <link rel="stylesheet" href="Yes.css">
  </head>
@@ -8,4 +9,6 @@
  <a href="https://www.youtube.com/">Youtube</a>
  
  <h1>ELi's Grand website</h1>
+ </body>
+ </html>
  
