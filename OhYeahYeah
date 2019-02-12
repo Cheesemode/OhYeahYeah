@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+ <link rel="stylesheet" href="Yes.css">
+ </head>
+ <a href="http://www.elrinconsito.com">Tasty tacos</a>
+ <span class="navigation space"/>
+ <a href="https://www.youtube.com/">Youtube</a>
+ 
+ <h1>ELi's Grand website</h1>
+ 
