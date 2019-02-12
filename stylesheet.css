@@ -1,3 +1,10 @@
 h1 {
  color: white;
+ Border-style: groove;
  
+}
+body {
+ margin: 100px;
+ background-color: grey;
+ 
+}
