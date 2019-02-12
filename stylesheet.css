@@ -1,10 +1,12 @@
 h1 {
  color: white;
  Border-style: groove;
- 
+ float: right; 
 }
 body {
  margin: 100px;
- background-color: grey;
- 
+ background-color: grey; 
+}
+span.navigationSpace {
+ margin-left: 50px;
 }
