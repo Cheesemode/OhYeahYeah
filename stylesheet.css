@@ -1,7 +1,9 @@
 h1 {
  color: white;
  Border-style: groove;
- float: right; 
+ float: right;
+ border-color: white;
+ 
 }
 body {
  margin: 100px;
