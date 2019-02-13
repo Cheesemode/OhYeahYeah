@@ -3,12 +3,22 @@ h1 {
  Border-style: groove;
  float: right;
  border-color: white;
- 
-}
+ }
+
 body {
  margin: 100px;
  background-color: grey; 
 }
+
 span.navigationSpace {
  margin-left: 50px;
+}
+
+img {
+ width: 25px;
+ float: left;
+ border-style: dotted;
+ border-color: white;
+ border-radius: 200px;
+ height: 50px
 }
