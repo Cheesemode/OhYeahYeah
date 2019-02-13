@@ -18,7 +18,13 @@ img {
  width: 325px;
  float: left;
  border-style: dotted;
- border-color: white;
+ border-color: brown;
  border-radius: 200px;
  height: 162px
+}
+
+p {
+ color: white;
+ border-style: groove;
+ border-width: thick;
 }
