@@ -15,7 +15,8 @@ span.navigationSpace {
 }
 
 img {
- width: 325px;
+ width: 250px;
+ margin: 20px;
  float: left;
  border-style: dotted;
  border-color: brown;
